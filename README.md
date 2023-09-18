@@ -1,3 +1,3 @@
 # Aadish_Codsoft_Task1
 Deployed Site Link:- https://aadishjain-codsoft-task1.netlify.app/
-https://aadishjain-portfolio.netlify.app/
+Updated:- https://aadishjain-portfolio.netlify.app/
