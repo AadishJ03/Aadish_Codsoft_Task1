@@ -1,2 +1,4 @@
-# Aadish_Codsoft_Task1
-Updated:- https://aadishjain-portfolio.netlify.app/
+# Portfolio Website
+
+- Made Using HTML and CSS
+- Website: https://portfolio-old.aadish.tech/
